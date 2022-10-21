@@ -1,5 +1,12 @@
 <?php
 /**
+ *  _____                      _  _____  _                                 
+ * |     | ___  ___  _ _  ___ | ||  _  ||_| ___  _ _  ___  ___    ___  ___ 
+ * | | | || .'||   || | || -_|| ||   __|| || . || | || -_||  _|_ | -_||_ -|
+ * |_|_|_||__,||_|_||___||___||_||__|   |_||_  ||___||___||_| |_||___||___|
+ * Ofuscador PHP  --> by ManuelPiquer.es     |_|
+ * 
+ * 
  * @author           Pierre-Henry Soria <hi@ph7.me>
  * @copyright        (c) 2014-2020, Pierre-Henry Soria. All Rights Reserved.
  * @license          MIT License; <https://opensource.org/licenses/MIT>
